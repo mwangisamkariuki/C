@@ -2,5 +2,5 @@ ignore all files
 *
 
 
-Exclude
+Except
 *.c
