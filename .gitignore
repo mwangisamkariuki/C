@@ -1,8 +1,6 @@
-# files to ignore
-*.out
-a.out
-# Ignore files without an extension
-*.[!.]*[^/] # Matches files with a dot but not at the end (essentially files with extensions)
-# Ignore files without an extension
-*[^.]/   # Ignore files without a dot in their name
-# Ignore files without an extension
+ignore all files
+*
+
+
+Exclude
+*.c
