@@ -3,4 +3,5 @@ ignore all files
 
 
 Except
-*.c
+!*.c
+!.gitignore
